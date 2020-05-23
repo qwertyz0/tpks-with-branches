@@ -1,5 +1,7 @@
 # tpks-with-branches
 
+# Смоляник Янис 9 вариант
+
 - Лабораторные по Pcad и Altium Designer (Также сделаны модели в Aurodesk Inventor и импортированны в Altium Des.)
 
 - Все лабораторные в ветках
